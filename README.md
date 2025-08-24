@@ -1,13 +1,13 @@
 # 👩🏻‍💻 Evelyn Martins de Carvalho
 
-**`Desenvolvedora FullStack`**
+**`Laravel/FullStack Developer`**
 
-Meu nome é Evelyn Martins de Carvalho, tenho 21 anos e sou natural de São Paulo, capital. Me formei Análise e Desenvolvimento de Sistemas em 2022, fiz um MBA em Desenvolvimento Full Stack em 2023 e estou atualmente no segundo semestre de um bacharelado em Engenharia da Computação.
-Estou sempre buscando expandir meus conhecimentos e gosto muito de fazer cursos. Como exemplo, fiz "Montagem e Manutenção de Microcomputadores" e "Redes de Computadores - Implantação de Redes Locais" no SENAI. Tenho muito interesse em desenvolver minhas habilidades na programação e em me tornar uma profissional de tecnologia cada vez mais completa. Pretendo me aprofundar em automação com Arduino e automação de processos com Python e em segurança da informação.
+My name is Evelyn Martins de Carvalho, I'm 21 years old, and I'm from São Paulo city. I graduated in Systems Analysis and Development in 2022, completed an MBA in Full Stack Development in 2023, and am currently in the second semester of a bachelor's degree in Computer Engineering.
+I'm always looking to expand my knowledge and really enjoy taking courses. For example, I took "Computer Assembly and Maintenance" and "Computer Networks - Local Area Network Implementation" at SENAI. I'm very interested in developing my programming skills and becoming an increasingly well-rounded technology professional. I plan to delve deeper into automation with Arduino, process automation with Python, and information security.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
