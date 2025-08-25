@@ -106,3 +106,8 @@ I'm always looking to expand my knowledge and really enjoy taking courses. For e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+<br/>
+
+---
+
+![evelynmdc's Stats](https://github-readme-stats.vercel.app/api?username=evelynmdc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
